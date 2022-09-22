@@ -28,3 +28,12 @@
 28. Middle management is inexperienced and not fit for the job.
 29. Top management is inexperienced and not fit for the job.
 30. Company culture built around secrecy and personal connections.
+31. I want to start my own business.
+32. I realized I am not the right fit for your company.
+33. I find everybody is a loser here and don't want to be another, so I quit.
+34. I don't want to be where the most successful person in this company is; I think his life sucks.
+35. I have hated this field since I got into it.
+36. I need to travel the world. 
+37. My mother is ill, So I need to take care and go to the village permanently.
+38. I need to graze the cattle in my village.
+39. I chose the wrong line,I want to be a farmer.
